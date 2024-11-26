@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './src/design/';
+import styles from '../design/BlogCard.module.css';
 
 const BlogCard = ({ title, description, image }) => {
   return (
