@@ -15,8 +15,8 @@ function App() {
         return (
           <ProfileCard
             name="Iron Man"
-            image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ironstudios.com%2Fstatue-iron-man-ultimate---the-infinity-saga---art-scale-1-10---iron-studios-090214%2Fp&psig=AOvVaw3Lc9kG8OOZEWPN4VMH5uoH&ust=1732695462544000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjZuN7H-YkDFQAAAAAdAAAAABAE"
-            description="The genius and kind-hearted billionaire of the USA, known for his brilliance in technology and leadership."
+            image="/4196b5b4bd0799b7ecdcd233c1697402.jpg"
+            description="The genius and kind-hearted billionaire of the USA, known for his brilliance in technology and leadership. The only way to become like Iron man is to work hard, write a lot of code, build an AI and die at the end."
           />
         );
       case 'BlogCard':
@@ -25,12 +25,12 @@ function App() {
             <BlogCard
               title="I am Iron Man"
               description="Iron Man is a superhero character of Marvel Studios. A rich and genius person who loves coding."
-              image="https://via.placeholder.com/150"
+              image="/ironman2.jpg"
             />
             <BlogCard
               title="Why is he a Genius?"
               description="He studies, performs experiments, and writes code extensively."
-              image="https://via.placeholder.com/150"
+              image="/196919-800-1067.jpeg"
             />
           </div>
         );
